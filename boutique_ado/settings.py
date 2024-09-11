@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-)(cyg45=-u59_lw$2kr+@+1&9&+lsqi1v0#nd^3e_s)0u--6^s
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-oleksiikova-boutiqueado-lrawicvk1yx.ws.codeinstitute-ide.net',
-                'boutique-ado-pro.herokuapp.com']
+                'boutique-ado-pro-4d2a26196589.herokuapp.com']
 
 
 # Application definition
